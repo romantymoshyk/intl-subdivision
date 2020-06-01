@@ -2,6 +2,8 @@ language: php
 
 php:
   - 7.2
+  - 7.3
+  - 7.2
 
 before_install:
   - composer selfupdate
